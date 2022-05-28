@@ -1,14 +1,14 @@
 
 {
-    "name": "Rclone-Heroku",
-    "description": "Simple docker based script to deploy rclone daemon and rclone web gui to heroku",
+    "name": "RCHeroku",
+    "description": "Simple docker based script to deploy rclone web gui to heroku",
     "logo": "https://telegra.ph/file/49120e604da42cd01aec1.png",
     "keywords": [
         "Rclone",
         "web-gui"
     ],
-    "website": "https://github.com/sentinm",
-    "repository": "https://github.com/sentinm/Rclone-Heroku",
+    "website": "https://github.com/escapado09",
+    "repository": "https://github.com/escapado09/RCH",
     "success_url": "",
     "stack": "container",
     "env": {
