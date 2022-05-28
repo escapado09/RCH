@@ -1,7 +1,7 @@
 
 {
     "name": "RCHeroku",
-    "description": "Simple docker based script to deploy rclone web gui to heroku",
+    "description": "Simple docker based script to deploy web gui to heroku",
     "logo": "https://telegra.ph/file/49120e604da42cd01aec1.png",
     "keywords": [
         "Rclone",
